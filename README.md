@@ -4,7 +4,8 @@ Includes basics of CRUD operations for static data using local storage and Routi
 
 User List 
 
-![Screenshot (10)](https://user-images.githubusercontent.com/80443293/209105730-2b7d02e1-3d7c-42c7-aa64-e8a2e0077309.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/80443293/209107031-b07e73cf-fdc3-46bd-8990-8f99fcfdf118.png)
+
 
 
 Add User
